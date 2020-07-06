@@ -15,7 +15,8 @@ If your key has expired, regenerate one.
 
 **START THE PROJECT**
 
-open the repository inside your shell, type `cd lol_api_react/`, then copy your <strong>API key</strong> and paste it inside `config.js` file.
+open the repository inside your shell, type `cd lol_api_react/`, then copy your <strong>API key</strong> and paste it inside `config.js` file which can be found in `src/`.
+
 Now type `yarn start` in the shell, and open the website inside your browser
 
 You should have something close to this :                                  
