@@ -1,5 +1,5 @@
 import React from 'react';
-import api_key from '../../config.js'
+import api_key from '../config.js'
 
 class HomepageImage extends React.Component {
     constructor(props) {
